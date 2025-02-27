@@ -48,7 +48,6 @@ main {
     margin: 10px 0;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(255, 255, 255, 0.1);
-    border-left: 5px solid #ccff00; /* 형광색 포인트 */
 }
 
 footer {
